@@ -1,4 +1,4 @@
-name: Keep Project Alive Every 10 Minutes
+name: Keep Project Alive 10
 
 on:
   push:
